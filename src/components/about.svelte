@@ -17,7 +17,7 @@
         <div class="w-10/12 text-white flex items-center">
             <div>
                 <h1 class="mt-10 text-xl font-bold md:text-2xl font-bold xl:text-3xl xl:mt-20">Jeffrey Freiwald</h1>
-                <p class="mt-3 text-sm sm:text-xl xl:text-2xl">IT Specialist apprentice in system integration & amateur frontend developer</p>
+                <p class="mt-3 text-sm sm:text-xl xl:text-2xl">IT-Specialist apprentice in system integration & amateur frontend developer</p>
             </div>
             <div>
                 <!-- selfie or something -->
