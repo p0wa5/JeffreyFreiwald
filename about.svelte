@@ -2,6 +2,8 @@
 <script>
     import himage from "../../static/treetoppurple.png";
     import MyPicture from "../../static/mypic.jpg";
+    import linkedIn from "../../static/linkedin-logo.png";
+    import github from "../../static/GitHub-Mark-Light-120px-plus.png";
 </script>
 
 <div class="w-full md:w-10/12 mx-auto">
@@ -29,5 +31,20 @@
     <div class="text-white mt-20 xl:mt-36">
         <span class="font-bold text-xl md:text-2xl border-b-2 xl:text-3xl">Skills</span>
         <p class="text-sm mt-3 sm:text-xl xl:text-2xl">As an amateur frontend developer, I started by learning the basic concepts of JavaScript, HTML, and CSS. I also use Frameworks like SvelteKit and Tailwind CSS to build applications or websites.</p>
+    </div>
+
+    <div class="h-20 mt-20 flex">
+        <div class="w-10 h-10 flex items-center">
+            <div class="w-8 h-8 mx-auto">
+                <a href="https://github.com/p0wa5" target="_blank">
+                    <img src={github} alt="github">
+                </a>
+            </div>
+        </div>
+        <div class="ml-2 w-10 h-10">
+            <a href="https://www.linkedin.com/in/jeffrey-freiwald-576055233/" target="_blank">
+                <img class="object-cover" src={linkedIn} alt="linked-in">
+            </a>
+        </div>
     </div>
 </div>
