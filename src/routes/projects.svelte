@@ -8,9 +8,11 @@
 </script>
 
 
-<div class="w-7/12 mx-auto">
+
+<div class="w-10/12 sm:w-7/12 mx-auto">
     <Nav />
 </div>
+
 
 <div class="w-full sm:w-7/12 mx-auto mt-60">
     <div class="w-full mt-32 h-auto">
