@@ -16,7 +16,7 @@
 
 <div class="w-full sm:w-7/12 mx-auto mt-60">
     <div class="w-full mt-32 h-auto">
-        <Project heading={"Portfolio with SvelteKit"} projdesc={"This project is about building a simple portfolio website with Sveltekit and Tailwind CSS"} repoLink={"https://www.google.com/"} imgPath={svelteKitImg}/>
-        <Project heading={"Experimenting with threejs"} projdesc={"In this project I have created my first Scene with three.js."} repoLink={"https://www.google.com/"} imgPath={threeJsImg}/>
+        <Project heading={"Portfolio with SvelteKit"} projdesc={"This project is about building a simple portfolio website with Sveltekit and Tailwind CSS"} repoLink={"https://github.com/p0wa5/JeffreyFreiwald"} imgPath={svelteKitImg}/>
+        <Project heading={"Experimenting with threejs"} projdesc={"In this project I have created my first Scene with three.js."} repoLink={"https://github.com/p0wa5/threeJsFirstObject"} imgPath={threeJsImg}/>
     </div>
 </div>
