@@ -4,6 +4,7 @@
     export let heading;
     export let projdesc;
     export let imgPath;
+    export let repoLink;
 
 
 </script>
