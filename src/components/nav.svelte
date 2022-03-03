@@ -13,7 +13,7 @@
   <div class="hidden md:flex text-xl lg:text-2xl">
       <a class="ml-4" href="/">home</a>
       <a class="ml-4" href="/projects">projects</a>
-      <a href="https://github.com/p0wa5" class="ml-4">github</a>
+      <a href="https://github.com/p0wa5" target="_blank" class="ml-4">github</a>
   </div>
 
   <div class="flex md:hidden">
@@ -25,6 +25,6 @@
   <div class="text-white w-1/3 float-right h-auto px-3 py-2 block">
       <a class="float-right mt-2 font-bold" href="/">home</a>
       <a class="float-right mt-2 font-bold" href="/projects">projects</a>
-      <a class="float-right mt-2 font-bold" href="https://github.com/p0wa5">github</a>
+      <a class="float-right mt-2 font-bold" target="_blank" href="https://github.com/p0wa5">github</a>
   </div>
 {/if}
