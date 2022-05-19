@@ -9,7 +9,7 @@
 
 
 <nav class=" text-white h-12 w-full mx-auto flex justify-between items-center">
-  <h1 class="text-xl font-bold md:text-xl font-bold lg:text-4xl font-bold">Jeffrey Freiwald</h1>
+  <a href="/"><h1 class="text-xl font-bold md:text-xl font-bold lg:text-4xl font-bold">Jeffrey Freiwald</h1></a>
   <div class="hidden md:flex text-xl lg:text-2xl">
       <a class="ml-4" href="/">home</a>
       <a class="ml-4" href="/projects">projects</a>
