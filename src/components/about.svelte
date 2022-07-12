@@ -30,7 +30,7 @@
    
     <div class="text-white mt-20 xl:mt-36">
         <span class="font-bold text-xl md:text-2xl border-b-2 xl:text-3xl">Skills</span>
-        <p class="text-sm mt-3 sm:text-xl xl:text-2xl">As an junior frontend developer, I started by learning the basic concepts of JavaScript, HTML, and CSS. I also use Frameworks like SvelteKit and Tailwind CSS to build applications or websites.</p>
+        <p class="text-sm mt-3 sm:text-xl xl:text-2xl">As an junior frontend developer, I started by learning the basic concepts of JavaScript followed by TypeScript, HTML, and CSS. I also use Frameworks like SvelteKit, Angular, Bootstrap and Tailwind CSS to build applications or websites.</p>
     </div>
 
     <div class="h-20 mt-20 flex">
